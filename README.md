@@ -156,14 +156,5 @@ the parameters. You can selectively provide only the configurations
 you want to change, leaving the rest with their default values.
 
 
-```
-├── app/
-│   ├── file1.py
-│   └── README.md
-├── LICENSE.txt
-└── setuptools.py
-```
-
-
 
 
